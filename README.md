@@ -3,7 +3,7 @@
 My final project is a combination of image classification and object detection on an iOS edge device. This is a project that starts the process for an object detection app by using CreateML and XCode. CreateML allowed me to train my model, while XCode was used to help deploy my model to an iOS edge device. Currently, my objective is to have this app work on iOS device cameras to detect and classify street signs such as stop, yield, and hazard signs while showing the level of accuracy for each detection. This app can be used to help autonomous vehicles navigate on the streets while abiding by given traffic laws so I hope that this is something that can be used live in a motor vehicle. If a car or autonomous vehicle were using this, it could potentially interact with other systems within the car, such as the braking systems, to help prevent accidents or even deaths.
 The overall goal is to combine object detection and image classification to advance and aid drivers and autonomous vehicles in driving safely under various conditions. I find this to be a fun and interesting way to help drivers be safer, while also helping to eliminate human drivers in the future. 
 
-![pic1](/Config/Screen Shot 2020-11-25 at 6.06.48 PM.png)
+![pic1](Config/Screen Shot 2020-11-25 at 6.06.48 PM.png)
 
 
 # Object Detection:
